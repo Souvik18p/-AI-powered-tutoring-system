@@ -1,0 +1,5 @@
+langchain==<version>  # Assuming langchain is a custom library
+torch==<version>      # PyTorch, likely a dependency of Hugging Face models
+faiss-cpu==<version>  # FAISS for similarity search
+requests==<version>   # Required for Hugging Face API
+#pip install -r requirements.txt
